@@ -1,5 +1,5 @@
 
-domain = () => {
+const domain = () => {
   let first = ["apple", "banana", "candy"] 
   let second = ["butter", "pecan", "alcohol"]
   let third = [".com", ".org", ".net", ".gov"]
